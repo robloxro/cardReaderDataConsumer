@@ -1,0 +1,4 @@
+CREATE TABLE card (
+   id INT NOT NULL,
+   status VARCHAR(50) NOT NULL
+);
